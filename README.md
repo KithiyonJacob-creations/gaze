@@ -43,5 +43,5 @@ It combines several advanced AI components:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/demonking369/gaze.git
+   git clone https://github.com/KithiyonJacob-creations/gaze.git
    cd gaze
